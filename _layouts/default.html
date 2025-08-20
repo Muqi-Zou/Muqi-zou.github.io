@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <div class="social-icons">
+          <div class="social-icon">
+              <a href="{{ site.social_links.linkedin}}" target="_blank" class="icon"><i class="fab fa-linkedin"></i>
+              <span>LinkedIn</span></a>
+          </div>
+          <div class="social-icon">
+              <a href="{{ site.social_links.github}}" target="_blank" class="icon"><i class="fab fa-github"></i>
+              <span>GitHub</span></a>
+          </div>
+          <!-- <div class="social-icon">
+              <a href="{{ site.social_links.google_scholar }}" target="_blank" class="icon"><i class="fas fa-graduation-cap"></i>
+              <span>Google Scholar</span></a>
+          </div> -->
+          <div class="social-icon">
+              <a href="{{  site.social_links.email  }}" class="icon"><i class="fas fa-envelope"></i>
+              <span>Email</span></a>
+          </div>
+          <div class="social-icon">
+
+              <a href="{{  site.resume_path  }}" target="_blank" class="icon">
+                  <i class="fas fa-file-pdf"></i>
+                  <span>Resume</span> </a>
+          </div>
+        </div>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <!-- <p>Powered by <a href="{{ site.github.owner_url }}">{{ site.author }}</a></p> -->
+        <p>Last updated: {{ site.time | date: "%B %Y" }}</p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
