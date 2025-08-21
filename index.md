@@ -1,15 +1,28 @@
 ---
 layout: default
+full-width: true
 ---
 
-# About Me
+## About Me
 
-I am currently pursuing my Ph.D. in Computer Science at Purdue University under the guidance of [Prof. Antonio Bianchi](https://antoniobianchi.me/). I completed my Master of Science in Computer Science at Binghamton University, SUNY, where I was recognized as a Distinguished Graduate Student. Prior to that, I earned my Bachelor of Science in Information Security from Renmin University of China. My research focuses on program analysis, binary analysis, and reverse engineering, with a particular emphasis on developing innovative techniques for verifying patch safety and enhancing vulnerability management processes.
+I am a fifth-year Ph.D. candidate in Computer Science at Purdue University, co-advised by [Prof. Dongyan Xu](https://www.cs.purdue.edu/homes/dxu/) and [Prof. Ruoyu(Fish) Wang](https://ruoyuwang.me). I received my Bachelor’s degree in Computer Science from the University of Illinois Urbana-Champaign(UIUC) . My research interests lie in program analysis, binary analysis, and decompilation, with a particular focus on designing novel methodologies for testing and enhancing decompilers.
 
 # Publications
-- **VeriBin: Adaptive Verification of Patches at the Binary Level** [\[paper\]](/assets/files/VeriBin_final.pdf)[\[code\]](https://github.com/purseclab/VeriBin)\\
-**Hongwei Wu**, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi\\
-In _Proceedings of the Network and Distributed System Security Symposium (NDSS)_, 2025.
+**Fuzzing sgx enclaves via host program mutations** [\[paper\]](/assets/files/fuzzsgx.pdf)[\[code\]](https://github.com/purseclab/FuzzSGX)\\
+Arslan Khan, **Muqi Zou**, Kyungtae Kim, Dongyan Xu, Antonio Bianchi, Dave (Jing) Tian\\
+In _IEEE 8th European Symposium on Security and Privacy (EuroS&P)_, 2023.
+
+**D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation** [\[paper\]](/assets/files/dhelix.pdf)[\[code\]](https://github.com/purseclab/D-helix)\\
+**Muqi Zou**, Arslan Khan, Ruoyu Wu, Han Gao, Antonio Bianchi, and Dave (Jing) Tian\\
+In _33rd USENIX Security Symposium (USENIX Security 24)_, 2024.
+
+**NEUROSCOPE: Reverse Engineering Deep Neural Network on Edge Devices using Dynamic Analysis** [\[paper\]](/assets/files/dnd2.pdf)[\[code\]](https://github.com/purseclab/NeuroScope)\\
+Ruoyu Wu, **Muqi Zou**, Arslan Khan, Taegyu Kim, Dongyan Xu, Dave Jing Tian, Antonio Bianchi\\
+In _34rd USENIX Security Symposium (USENIX Security 25)_, 2025.
+
+
+
+
 
 <!-- # Research Experiences
 
