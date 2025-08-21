@@ -1,6 +1,6 @@
-title: Hongwei Wu
-logo: /assets/img/personal_pic.png
-resume_path: /assets/files/Hongwei_Wu_Resume.pdf
+title: Muqi Zou
+logo: /assets/img/muqi_pic.jpg
+resume_path: /assets/files/Muqi_zou_resume.pdf
 description: Ph.D. student at Purdue University
 show_downloads: false
 google_analytics: UA-152715299-1
@@ -10,13 +10,13 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-url: 'https://hwu71.github.io'
+url: 'https://Muqi-Zou.github.io'
 
-author: Hongwei Wu
+author: Muqi Zou
 
 social_links:
-  name: Hongwei Wu
-  email: "mailto:wu1685@purdue.edu"
-  github: "https://github.com/hwu71"
-  linkedin: "https://www.linkedin.com/in/hongwei-wu/"
+  name: Muqi Zou
+  email: "mailto:zou116@purdue.edu"
+  github: "https://github.com/Muqi-Zou"
+  linkedin: "https://www.linkedin.com/in/muqi-zou-96954a108/"
   google_scholar: "https://"

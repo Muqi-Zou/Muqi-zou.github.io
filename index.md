@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Welcome to Hongwei Wu's personal website!
 
 # About Me
 
