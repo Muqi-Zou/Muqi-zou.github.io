@@ -6,7 +6,7 @@ full-width: true
 ## About Me
 
 I am a fifth-year Ph.D. candidate in Computer Science at Purdue University, co-advised by [Prof. Dongyan Xu](https://www.cs.purdue.edu/homes/dxu/) and [Prof. Ruoyu(Fish) Wang](https://ruoyuwang.me). I received my Bachelor’s degree in Computer Science from the University of Illinois Urbana-Champaign(UIUC) . My research interests lie in program analysis, binary analysis, and decompilation.
-In particular, I develop principled methodologies that integrate heuristic-driven analysis with large language model (LLM)-based techniques to enhance the reliability, scalability, and semantic fidelity of decompilation, enabling broader applications in software security, systems research, and automated program understanding.
+In particular, I develop novel methodologies that integrate heuristic-driven analysis with large language model (LLM)-based techniques to enhance the reliability, scalability, and semantic fidelity of decompilation, enabling broader applications in software security, systems research, and automated program understanding.
 
 ## Experiences
 **Research Assistant, Purdue University**\\
