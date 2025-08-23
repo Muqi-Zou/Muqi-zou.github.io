@@ -17,25 +17,29 @@ _Designed and implemented one home work project for CS503 (Operating Systems [Gr
 _Assisted in grading and held office hours for CS354 (Operating Systems [Undergraduate] Spring 2020) and CS503_
 
 # Publications
-**Fuzzing sgx enclaves via host program mutations** [\[paper\]](/assets/files/fuzzsgx.pdf)[\[code\]](https://github.com/purseclab/FuzzSGX)\\
-Arslan Khan, **Muqi Zou**, Kyungtae Kim, Dongyan Xu, Antonio Bianchi, Dave (Jing) Tian\\
-In _IEEE 8th European Symposium on Security and Privacy (EuroS&P)_, 2023.
-
-**D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation** [\[paper\]](/assets/files/dhelix.pdf)[\[code\]](https://github.com/purseclab/D-helix)\\
-**Muqi Zou**, Arslan Khan, Ruoyu Wu, Han Gao, Antonio Bianchi, and Dave (Jing) Tian\\
-In _33rd USENIX Security Symposium (USENIX)_, 2024.
-
-**NEUROSCOPE: Reverse Engineering Deep Neural Network on Edge Devices using Dynamic Analysis** [\[paper\]](/assets/files/dnd2.pdf)[\[code\]](https://github.com/purseclab/NeuroScope)\\
-Ruoyu Wu, **Muqi Zou**, Arslan Khan, Taegyu Kim, Dongyan Xu, Dave Jing Tian, Antonio Bianchi\\
-In _34rd USENIX Security Symposium (USENIX)_, 2025.
-
-**Hardening Deep Neural Network Binaries against Reverse Engineering Attacks** [\[paper\]](/assets/files/dnnobfus.pdf)\\
-Zheng Zhong, Ruoyu Wu, Junpeng Wan, **Muqi Zou**, and Dave (Jing) Tian\\
-In _32nd ACM Conference on Computer and Communications Security (CCS)_, 2025.
+**D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning.** [\[paper\]](/assets/files/dlift.pdf) \\
+Muqi Zou, Hongyu Cai, Hongwei Wu, Zion Leonahenahe Basque, Arslan Khan, Berkay Celik, Dave (Jing)Tian, Antonio Bianchi, Ruoyu (Fish)Wang, Dongyan Xu\\
+arXiv preprint, 2025.
 
 **One Size Doesn't Fit All: A Dynamic Heterogeneous Learning Ensemble for Malware Family Classification** [\[paper\]](/assets/files/malclass.pdf)\\
 Solomon Sonya, **Muqi Zou**, Saastha Vasan, Christopher Kruegel, Giovanni Vigna and Dongyan Xu\\
-In _30th European Symposium on Research in Computer Security (Esorics)_, 2025
+_30th European Symposium on Research in Computer Security (Esorics)_, 2025
+
+**Hardening Deep Neural Network Binaries against Reverse Engineering Attacks** [\[paper\]](/assets/files/dnnobfus.pdf)\\
+Zheng Zhong, Ruoyu Wu, Junpeng Wan, **Muqi Zou**, and Dave (Jing) Tian\\
+_32nd ACM Conference on Computer and Communications Security (CCS)_, 2025.
+
+**NEUROSCOPE: Reverse Engineering Deep Neural Network on Edge Devices using Dynamic Analysis** [\[paper\]](/assets/files/dnd2.pdf)[\[code\]](https://github.com/purseclab/NeuroScope)\\
+Ruoyu Wu, **Muqi Zou**, Arslan Khan, Taegyu Kim, Dongyan Xu, Dave Jing Tian, Antonio Bianchi\\
+_34rd USENIX Security Symposium (USENIX)_, 2025.
+
+**D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation** [\[paper\]](/assets/files/dhelix.pdf)[\[code\]](https://github.com/purseclab/D-helix)\\
+**Muqi Zou**, Arslan Khan, Ruoyu Wu, Han Gao, Antonio Bianchi, and Dave (Jing) Tian\\
+_33rd USENIX Security Symposium (USENIX)_, 2024.
+
+**Fuzzing sgx enclaves via host program mutations** [\[paper\]](/assets/files/fuzzsgx.pdf)[\[code\]](https://github.com/purseclab/FuzzSGX)\\
+Arslan Khan, **Muqi Zou**, Kyungtae Kim, Dongyan Xu, Antonio Bianchi, Dave (Jing) Tian\\
+_IEEE 8th European Symposium on Security and Privacy (EuroS&P)_, 2023.
 
 
 <!-- # Research Experiences
