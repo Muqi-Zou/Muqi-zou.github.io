@@ -14,8 +14,8 @@ Aug 2020 - Now
 
 **Teaching Assistant, Purdue University**\\
 Aug 2019 - May 2020\\
-_CS354 (Operating Systems [Undergraduate] Spring 2020)_ \\
-_CS503 (Operating Systems [Graduate] Fall 2019)_
+_CS354 (Operating Systems [Undergrad] Spring 2020)_ \\
+_CS503 (Operating Systems [Grad] Fall 2019)_
 
 
 # Publications
