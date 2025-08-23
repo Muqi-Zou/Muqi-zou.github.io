@@ -26,9 +26,9 @@ arXiv preprint, 2025.
 Solomon Sonya, **Muqi Zou**, Saastha Vasan, Christopher Kruegel, Giovanni Vigna and Dongyan Xu\\
 _30th European Symposium on Research in Computer Security (Esorics)_, 2025
 
-**Hardening Deep Neural Network Binaries against Reverse Engineering Attacks** [\[paper\]](/assets/files/dnnobfus.pdf)\\
+<!-- **Hardening Deep Neural Network Binaries against Reverse Engineering Attacks** [\[paper\]](/assets/files/dnnobfus.pdf)\\
 Zheng Zhong, Ruoyu Wu, Junpeng Wan, **Muqi Zou**, and Dave (Jing) Tian\\
-_32nd ACM Conference on Computer and Communications Security (CCS)_, 2025.
+_32nd ACM Conference on Computer and Communications Security (CCS)_, 2025. -->
 
 **NEUROSCOPE: Reverse Engineering Deep Neural Network on Edge Devices using Dynamic Analysis** [\[paper\]](/assets/files/dnd2.pdf)[\[code\]](https://github.com/purseclab/NeuroScope)\\
 Ruoyu Wu, **Muqi Zou**, Arslan Khan, Taegyu Kim, Dongyan Xu, Dave Jing Tian, Antonio Bianchi\\
