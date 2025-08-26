@@ -21,7 +21,7 @@ _CS503 (Operating Systems [Grad] Fall 2019)_
 
 # Publications
 **D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning.** [\[paper\]](/assets/files/dlift.pdf) \\
-Muqi Zou, Hongyu Cai, Hongwei Wu, Zion Leonahenahe Basque, Arslan Khan, Berkay Celik, Dave (Jing)Tian, Antonio Bianchi, Ruoyu (Fish)Wang, Dongyan Xu\\
+**Muqi Zou**, Hongyu Cai, Hongwei Wu, Zion Leonahenahe Basque, Arslan Khan, Berkay Celik, Dave (Jing)Tian, Antonio Bianchi, Ruoyu (Fish)Wang, Dongyan Xu\\
 arXiv preprint, 2025.
 
 **One Size Doesn't Fit All: A Dynamic Heterogeneous Learning Ensemble for Malware Family Classification** [\[paper\]](/assets/files/malclass.pdf)\\
