@@ -19,7 +19,7 @@ _CS354 (Operating Systems [Undergrad] Spring 2020)_ \\
 _CS503 (Operating Systems [Grad] Fall 2019)_
 
 
-# Publications
+## Publications
 **D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning.** [\[paper\]](/assets/files/dlift.pdf) \\
 **Muqi Zou**, Hongyu Cai, Hongwei Wu, Zion Leonahenahe Basque, Arslan Khan, Berkay Celik, Dave (Jing)Tian, Antonio Bianchi, Ruoyu (Fish)Wang, Dongyan Xu\\
 arXiv preprint, 2025.
@@ -44,7 +44,7 @@ _33rd USENIX Security Symposium (USENIX)_, 2024.
 Arslan Khan, **Muqi Zou**, Kyungtae Kim, Dongyan Xu, Antonio Bianchi, Dave (Jing) Tian\\
 _IEEE 8th European Symposium on Security and Privacy (EuroS&P)_, 2023.
 
-# Personal
+## Personal
 I used to play a lot of basketball and swim (My PB of 50M Freestyle is 29.2s). More recently, I have been practicing Olympic weightlifting (C&J PB is 118 kg) I am also exploring new interests, including golf and track driving.
 
 <!-- # Research Experiences
