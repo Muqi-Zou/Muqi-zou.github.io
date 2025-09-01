@@ -44,6 +44,8 @@ _33rd USENIX Security Symposium (USENIX)_, 2024.
 Arslan Khan, **Muqi Zou**, Kyungtae Kim, Dongyan Xu, Antonio Bianchi, Dave (Jing) Tian\\
 _IEEE 8th European Symposium on Security and Privacy (EuroS&P)_, 2023.
 
+# Personal
+I used to play a lot of basketball and swim (My PB of 50M Freestyle is 29.2s). More recently, I have been practicing Olympic weightlifting (C&J PB is 118 kg) I am also exploring new interests, including golf and track driving.
 
 <!-- # Research Experiences
 
