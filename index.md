@@ -26,7 +26,7 @@ arXiv preprint, 2025.
 
 **One Size Doesn't Fit All: A Dynamic Heterogeneous Learning Ensemble for Malware Family Classification** [\[paper\]](/assets/files/malclass.pdf)\\
 Solomon Sonya, **Muqi Zou**, Saastha Vasan, Christopher Kruegel, Giovanni Vigna and Dongyan Xu\\
-_30th European Symposium on Research in Computer Security (Esorics)_, 2025
+_Workshop on Security and AI in conjunction with ESORICS (SECAI)_, 2025
 
 **Hardening Deep Neural Network Binaries against Reverse Engineering Attacks** [\[paper\]](/assets/files/dnnobfus.pdf)\\
 Zheng Zhong, Ruoyu Wu, Junpeng Wan, **Muqi Zou**, and Dave (Jing) Tian\\
